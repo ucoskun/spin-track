@@ -7,16 +7,16 @@
 #include <vector>
 #include <math.h>
 #include <memory>
-#include "shape.hpp"
-#include "geometry.hpp"
-#include "tracker.hpp"
-#include "paramread.hpp"
+#include "include/shape.hpp"
+#include "include/geometry.hpp"
+#include "include/tracker.hpp"
+#include "include/paramread.hpp"
 #include <ctime>
 
 int main(void) 
 {
     //Create the rectangular box
-    
+
     double dim1 = 0.102;
     double dim2 = 0.4;
     double dim3 = 0.075;
