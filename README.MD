@@ -7,3 +7,11 @@ Dependencies :
 - GCC 4.8.5
 - Boost C++ 1.53.0
 - CMake version 2.8.12.2
+
+# Building
+```bash
+mkdir build
+cd build
+cmake ..
+make
+```
