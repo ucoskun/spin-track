@@ -6,3 +6,4 @@ Tested on CentOS Linux release 7.7.1908 (Kernel : 3.10.0-957.el7.x86_64)
 Dependencies :
 - GCC 4.8.5
 - Boost C++ 1.53.0
+- CMake version 2.8.12.2
