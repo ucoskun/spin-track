@@ -15,3 +15,5 @@ cd build
 cmake ..
 make
 ```
+# Note
+This project is not up-to-date and moved into a private repository.
